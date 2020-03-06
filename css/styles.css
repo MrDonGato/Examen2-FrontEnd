@@ -70,6 +70,9 @@ hr.l2 {
     width: 100%;
     height: 450px;
 }
+.columna1 img:hover,.columna2 img:hover,.columna3 img:hover{
+    opacity: 0.4;
+}
 .social{
     display: flex;
     flex-direction: row;
